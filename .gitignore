@@ -1,0 +1,14 @@
+# Node / JavaScript
+node_modules/
+dist/
+dist-ssr/
+build/
+coverage/
+*.tsbuildinfo
+.vite/
+
+# Docker / environment
+.env
+.env.*
+!.env.example
+.DS_Store

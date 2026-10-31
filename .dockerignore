@@ -1,0 +1,11 @@
+# Documentation & Local Scripts
+README.md
+run.sh
+
+# Git artifacts
+.git
+.gitignore
+
+# Node artifacts
+node_modules/
+coverage/
